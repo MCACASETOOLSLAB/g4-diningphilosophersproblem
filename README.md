@@ -15,5 +15,5 @@ The Dining Philosophers problem is a classic OS problem that is usually stated i
 
 Eating is not limited by the amount of rice left: assume an infinite supply.
 The problem is how to design a program such that
-1.	There is no deadlock
-2.	There is no starvation
+1.	There is no deadlock.
+2.	There is no starvation.
