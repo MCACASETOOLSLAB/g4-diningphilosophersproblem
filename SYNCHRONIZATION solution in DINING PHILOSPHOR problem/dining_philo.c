@@ -58,7 +58,7 @@ main()
        }
            
     }
-} 
+}
     
     int wait(int s)
     {
