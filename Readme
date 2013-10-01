@@ -1,0 +1,24 @@
+                Dining Philosophers
+Model a dining philosophers problem with four philosophers. There must be exactly eight
+processes, one for each philosopher and each fork. There must also be a Boolean array \
+eating
+"
+of size four, whose elements will indicate whether a philosopher is eating or not. In other words,
+\
+eating[i]
+" is true i the
+i
+-th philosopher is eating.
+You are free to introduce additional variables and channels (but not processes). Avoid unnec-
+essary complexity.
+Verify the following properties:
+no deadlock
+dp1.ltl
+: no livelock
+dp2.ltl
+: no starvation
+dp3.ltl
+: it is never possible for two adjacent philosophers to be eating at the same time.
+
+
+Anoop Kumar Upadhyay(205112032)
